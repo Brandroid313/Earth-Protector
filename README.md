@@ -7,3 +7,5 @@ until acted upon by opposite thrust of until crashed.
 - Directional Thrusters - left, right, up and down arrows
 - Shoot Balls of Scify Death - spacebar
 ## Gameplay
+<img width="1075" alt="Screen Shot 2022-09-20 at 14 17 03" src="https://user-images.githubusercontent.com/82865312/191173410-ff40edd0-95c0-4f26-afe8-e5ae88776a6c.png">
+
